@@ -8,4 +8,4 @@ https://nelsondcds.github.io/password-generator/
 
 A screenshot of my submission is provided below:
 
-![Password Generator Screenshot](./screenshot.png?raw=true "Password Generator Screenshot")
+![Password Generator Screenshot](./screenshot.jpg?raw=true "Password Generator Screenshot")
