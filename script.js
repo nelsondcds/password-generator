@@ -133,7 +133,7 @@ var generatePassword = function () {
 
   return tempPassword;
 };
-//" !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~""abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+
 // Write password to the #password input
 function writePassword() {
   var password = generatePassword();
